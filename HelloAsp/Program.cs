@@ -10,6 +10,7 @@ List<Person> users = new List<Person>
     new() { Id = Guid.NewGuid().ToString(), Name = "Bob", Age = 41 },
     new() { Id = Guid.NewGuid().ToString(), Name = "Sam", Age = 23 }
     new() { Id = Guid.NewGuid().ToString(), Name = "Ann", Age = 33 }
+    new() { Id = Guid.NewGuid().ToString(), Name = "Cos", Age = 23 }                 
     <!DOCTYPE html>
 <html>
 <head>
