@@ -27,3 +27,4 @@ C:\Users\Midori\source\repos\HelloAsp\HelloAsp\obj\Debug\net9.0\HelloAsp.genrunt
 C:\Users\Midori\source\repos\HelloAsp\HelloAsp\obj\Debug\net9.0\ref\HelloAsp.dll
 C:\Users\Midori\source\repos\HelloAsp\HelloAsp\bin\Debug\net9.0\images.jpeg
 C:\Users\Midori\source\repos\HelloAsp\HelloAsp\bin\Debug\net9.0\HTML\index.html
+C:\Users\Midori\source\repos\HelloAsp\HelloAsp\obj\Debug\net9.0\HelloAsp.sourcelink.json
